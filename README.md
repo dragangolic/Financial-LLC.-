@@ -7,3 +7,4 @@ The goal of this project is to create a project that will include all technics o
 - Combine Data and Eliminate Redundancies
 - Utilize Data Analysis to Discover Important Information
 
+Created Clients.csv file in MySQL. Imported and manipulated with it in Python script Customers.py
